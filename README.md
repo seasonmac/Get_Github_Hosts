@@ -1,0 +1,2 @@
+# Get_Github_Hosts
+国内访问github出现网页打不开的情况，不出意料的话，应该是DNS污染的问题，需要更新一下host IP，通过此脚本能够一键获取host的IP地址
